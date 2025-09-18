@@ -1,3 +1,8 @@
 Hello
 modified filechanges by feature1
 stashed change
+=======
+modified file
+
+
+sadhoih e
